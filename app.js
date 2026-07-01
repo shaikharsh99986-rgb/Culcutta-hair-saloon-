@@ -154,7 +154,7 @@ function topbar(theme) {
 function hero() {
   return `
   <section id="home" class="hero">
-    <div class="hero-ring"><img src="assets/logo.jpg" alt="Culcutta Hair Saloon logo"></div>
+    <div class="hero-ring"><img src="logo.jpg" alt="Culcutta Hair Saloon logo"></div>
     <h1>CULCUTTA HAIR SALOON<span>स्टाइल · कॉन्फिडेंस · परफेक्शन</span></h1>
     <p class="tag">अहमदाबाद के भद्रा प्लाजा में प्रीमियम हेयर कट, शेविंग, ग्रूमिंग और हेयर स्पा — मालिक: ${SALON.owner}</p>
     <div class="hero-cta">
