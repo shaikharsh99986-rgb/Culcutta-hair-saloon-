@@ -1,0 +1,16 @@
+{
+  "name": "Culcutta Hair Saloon",
+  "short_name": "Culcutta",
+  "description": "Culcutta Hair Saloon — प्रीमियम जेंट्स सैलून, भद्रा प्लाजा, अहमदाबाद",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "lang": "hi",
+  "icons": [
+    { "src": "assets/logo.jpg", "sizes": "512x512", "type": "image/jpeg", "purpose": "any maskable" },
+    { "src": "assets/logo.jpg", "sizes": "192x192", "type": "image/jpeg" }
+  ]
+}
