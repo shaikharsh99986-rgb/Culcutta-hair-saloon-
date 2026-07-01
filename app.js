@@ -133,7 +133,7 @@ function topbar(theme) {
   <header class="topbar">
     <div class="wrap topbar-inner">
       <div class="topbar-brand">
-        <img src="assets/logo.jpg" alt="logo">
+        <img src="logo.jpg" alt="">
         <div class="name">Culcutta <span class="brand-en">HAIR SALOON</span><small>प्रीमियम जेंट्स सैलून · भद्रा प्लाजा</small></div>
       </div>
       <nav class="desknav">
